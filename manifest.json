@@ -1,8 +1,8 @@
 {
-  "name": "ShawarMax Menu",
-  "short_name": "ShawarMax",
-  "start_url": "/ShawarMax-Menu/index.html",
-  "scope": "/ShawarMax-Menu/",
+  "name": "EECHA CHIPS",
+  "short_name": "EECHA",
+  "start_url": "/eecha-chips/index.html",
+  "scope": "/eecha-chips/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#ef4444",
